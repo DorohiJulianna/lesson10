@@ -1,0 +1,398 @@
+/* @import "null.css"; */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+
+.wrapper {
+}
+.header {
+}
+.header__container {
+}
+.header__title {
+}
+.header__logo-pic-conteiner {
+}
+.header__logo-icon {
+}
+.header__items {
+}
+.header__item {
+}
+.header__log {
+}
+.header__button {
+}
+.button {
+}
+.header__log-in-pic-conteiner {
+}
+.header__icon-avtorization {
+}
+.header__log-in {
+}
+.header-__register {
+}
+.main {
+}
+.enjoy-studing {
+}
+.enjoy-studing__container {
+}
+.play-button {
+}
+.play-button__icon {
+}
+.play-button__text-play {
+}
+.enjoy-studing__text-slogan {
+}
+.enjoy-studing__block-buttons {
+}
+.block-buttons {
+}
+.block-buttons__about-us-button {
+}
+.block-buttons__explore-button {
+}
+.enjoy-studing__pic-conteiner {
+}
+.enjoy-studing__image {
+}
+.footer-enjoy-items {
+}
+.footer-enjoy-items__item {
+}
+.footer-enjoy-items__number {
+}
+.footer-enjoy-items__word {
+}
+.who-we-are {
+}
+.who-we-are__conteiner {
+}
+.who-we-are__pic-conteiner {
+}
+.who-we-are__image {
+}
+.who-we-are__header-block {
+}
+.block-header {
+}
+.block-header__sub-title {
+}
+.block-header__title {
+}
+.site-list-items {
+}
+.site-list-items__item {
+}
+.who-we-are__button {
+}
+.featured-courses {
+}
+.featured-courses__conteiner {
+}
+.featured-courses__header-block {
+}
+.featured-courses__button {
+}
+.about-people-items {
+}
+.featured-courses__about-people-items {
+}
+.item-about-people {
+}
+.item-about-people__pic-conteiner {
+}
+.item-about-people__image {
+}
+.featured-courses__text-about-people {
+}
+.text-about-people {
+}
+.text-about-people__profession-button {
+}
+.text-about-people__prefession-direction {
+}
+.text-about-people__money-by-name {
+}
+.item-about-people__picture-conteiner {
+}
+.our-benefits {
+}
+.our-benefits__conteiner {
+}
+.our-benefits__coloum-items {
+}
+.coloum-items {
+}
+.coloum-items__item {
+}
+.coloum-items__icon-container {
+}
+.coloum-items__icon-container_color {
+}
+.coloum-items__icon {
+}
+.coloum-info__text {
+}
+.our-benefits__text-text {
+}
+.our-benefits__title-text {
+}
+.our-benefits__subtitle-text {
+}
+.our-benefits__pic-conteiner {
+}
+.our-benefits__image {
+}
+.our-events {
+}
+.our-events__container {
+}
+.our-events__header-block {
+}
+.header-block {
+}
+.header-block__sub-title {
+}
+.header-block__title {
+}
+.our-events__items {
+}
+.our-events__item {
+}
+.item-our-events {
+}
+.item-our-events__data {
+}
+.data-item-our-events {
+}
+.data-item-our-events__number {
+}
+.data-item-our-events__month {
+}
+.data-item-our-events__time {
+}
+.item-our-events__text-body {
+}
+.item-our-events__title-text {
+}
+.item-our-events__sub-text {
+}
+.item-our-events__button {
+}
+.button-our-events {
+}
+.our-events__footer {
+}
+.footer-our-events {
+}
+.footer-our-events__text {
+}
+.footer-our-events__button {
+}
+.block-certificate {
+}
+.block-certificate__container {
+}
+.block-certificate__text {
+}
+.text-block-crtificate {
+}
+.text-block-crtificate__header-block {
+}
+.text-block-crtificate__sub-title {
+}
+.text-block-crtificate__title {
+}
+.text-block-crtificate__text {
+}
+.text-block-crtificate__icons-container {
+}
+.text-block-crtificate__icon {
+}
+.cretex-certificate__pic-container {
+}
+.cretex-certificate__image {
+}
+.meet-our-team {
+}
+.meet-our-team__conteiner {
+}
+.meet-our-team__header-block {
+}
+.meet-our-team__nav-icons {
+}
+.icons-nav {
+}
+.icons-nav__icon {
+}
+.meet-our-team__cards-container {
+}
+.container-cards {
+}
+.container-cards__card-people {
+}
+.people-card {
+}
+.people-card__pic-container {
+}
+.people-card__photo {
+}
+.people-card__photo__name {
+}
+.people-card__photo__profession {
+}
+.meet-our-team__testimonials {
+}
+.testimonials {
+}
+.testimonials__header-block {
+}
+.testimonials__conteiner-review {
+}
+.testimonials__text-review {
+}
+.testimonials__student {
+}
+.testimonials__pic-student-container {
+}
+.testimonials__photo {
+}
+.testimonials__name-student {
+}
+.testimonials__name-of-course {
+}
+.latest-posts {
+}
+.latest-posts__container {
+}
+.latest-posts__info-header {
+}
+.latest-posts__header-block {
+}
+.latest-posts__button {
+}
+.latest-posts__items {
+}
+.items-lastest-posts {
+}
+.items-lastest-posts__item {
+}
+.items-lastest-posts__pic-background {
+}
+.items-lastest-posts__icon-container {
+}
+.items-lastest-posts__icon {
+}
+.items-lastest-posts__event {
+}
+.items-lastest-posts__profession {
+}
+.items-lastest-posts__icon-container-data {
+}
+.items-lastest-posts__icon-data {
+}
+.items-lastest-posts__data {
+}
+.items-lastest-posts__icon-container-time {
+}
+.items-lastest-posts__icon-time {
+}
+.items-lastest-posts__time-text {
+}
+.items-lastest-posts__text-about-event {
+}
+.items-lastest-posts__title-text {
+}
+.items-lastest-posts__sub-text {
+}
+.items-lastest-posts__footer-movement {
+}
+.subscribe-block {
+}
+.subscribe-block__conteiner {
+}
+.subscribe-block__header-block {
+}
+.subscribe-block__form {
+}
+.form-subscribe-block {
+}
+.form-subscribe-block__email-form {
+}
+.form-subscribe-block__button {
+}
+.footer {
+}
+.footer__conteiner {
+}
+.footer__createx-conteiner {
+}
+.footer__logo {
+}
+.footer__text-logo {
+}
+.footer__icon-container-logo {
+}
+.footer__icon-logo {
+}
+.footer__text-about-school {
+}
+.footer__icons {
+}
+.footer__icon-social-container {
+}
+.footer__icon {
+}
+.footer__coloum {
+}
+.coloum-footer {
+}
+.coloum-footer__items {
+}
+.coloum-footer__title-item {
+}
+.coloum-footer__item {
+}
+.footer__contacts {
+}
+.contacts-footer {
+}
+.contacts-footer__title-item {
+}
+.contacts-footer__item {
+}
+.footer__avtorizacion {
+}
+.avtorizacion-footer {
+}
+.avtorizacion-footer__title-item {
+}
+.avtorizacion-footer__form {
+}
+.avtorizacion-footer__text-email {
+}
+.avtorizacion-footer__image-conteiner {
+}
+.avtorizacion-footer__icon {
+}
+.avtorizacion-footer__text {
+}
+.footer__info-bottom {
+}
+.footer__bottom-text {
+}
+.footer__text-copyright {
+}
+.footer__heart-icon-conteiner {
+}
+.footer__icon-heart {
+}
+.footer__text-after {
+}
+.footer__link-top {
+}
